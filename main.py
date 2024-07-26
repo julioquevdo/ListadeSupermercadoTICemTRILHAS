@@ -7,8 +7,9 @@ lista_produtos = []
 def main():
     os.system("cls")
     print("Lista de Supermercado Simples\n\n")
-    for indice, i in enumerate(lista_produtos):
-        print(f"{indice+1} - Nome: {i["nome"]} --- ID: {i["id"]}")
+    if len(lista_produtos) != 0:
+        for indice, i in enumerate(lista_produtos):
+            print(f"{indice+1} - Nome: {i["nome"]} --- ID: {i["id"]}\n")
 
     print("1 - Adicionar Produto")
     print("2 - Remover Produto")
