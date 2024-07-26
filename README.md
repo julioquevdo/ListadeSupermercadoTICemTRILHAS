@@ -2,7 +2,7 @@
 
 Este é um programa Python simples que implementa uma lista de supermercado em modo texto. 
 
-![GIF](https://i.gifer.com/9Kj.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNuNDh1djg5YWVuZmtlazR2dGt6cDRzbjRieGEwaTdnb3lscjBhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e6lyxcRngMS1jbTyXS/200.webp)
 
 ### Funcionalidades
 
