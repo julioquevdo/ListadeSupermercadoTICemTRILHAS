@@ -10,6 +10,7 @@ Este é um programa Python simples que implementa uma lista de supermercado em m
 - **Remover Produtos:** Remove um produto da lista usando seu ID único.
 - **Pesquisar Produtos:** Busca por produtos na lista pelo nome.
 - **Listar Produtos:** Exibe todos os produtos adicionados à lista, mostrando seu nome e ID.
+- **Cria um arquivo com a Lista de Produtos:** Cria um arquivo .txt com a lista de produtos e lê toda vez que for executado.
 
 ### Como Usar
 
